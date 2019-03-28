@@ -66,3 +66,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+Now let’s create Firebase config file which actually tells the Firebase SDK what application are we using. Inside config directory create keys.js. This will check if we are on production mode or not. The thing you don’t want to share you keys. We create dev.js and prod.js. Dev file will contain actual strings, but you will never publish this file. Prod file will only reference to environment variables.
+
+Now you just need to fill dev.js with your actual values. API Key and Project ID can be found in project settings inside Firebase dashboard.
