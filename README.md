@@ -1,4 +1,4 @@
-# Project Title
+# React Hooks & Firebase Auth Model
 
 A basic Firebase authentication model written in React, using the latest hooks API.
 
@@ -17,7 +17,7 @@ git clone https://github.com/RickBr0wn/react-hooks-firebase-auth-model.git
 Once cloned:
 
 ```
-cd rereact-hooks-firebase-auth-model
+cd react-hooks-firebase-auth-model
 yarn && yarn start
 ```
 
