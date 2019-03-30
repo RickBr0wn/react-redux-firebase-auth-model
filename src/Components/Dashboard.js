@@ -8,7 +8,7 @@ import {
 } from '@material-ui/core'
 import VerifiedUserOutlined from '@material-ui/icons/VerifiedUserOutlined'
 import withStyles from '@material-ui/core/styles/withStyles'
-import firebase from '../../firebase'
+import firebase from '../firebase'
 import { withRouter } from 'react-router-dom'
 import { HOMEPAGE } from '../Constants/routes'
 
