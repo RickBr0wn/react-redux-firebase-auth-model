@@ -13,7 +13,7 @@ import withStyles from '@material-ui/core/styles/withStyles'
 import { Link, withRouter } from 'react-router-dom'
 import PropTypes from 'prop-types'
 import { REGISTER, DASHBOARD } from '../Constants/routes'
-import firebase from '../Config/firebase'
+import firebase from '../../firebase'
 
 const styles = theme => ({
   main: {
