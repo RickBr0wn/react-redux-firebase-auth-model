@@ -25,6 +25,7 @@ yarn && yarn start
 
 - [React](https://reactjs.org/) - The web framework used
 - [Firebase](https://firebase.google.com/) - Database and authentication infrastructure
+- [create-react-app](https://github.com/facebook/create-react-app) - Initial structure
 - [react-router-dom](https://www.npmjs.com/package/react-router-dom) - Used for routing
 
 ## Contributing
